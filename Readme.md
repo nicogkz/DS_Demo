@@ -1,8 +1,8 @@
 # This is a simple git repo to show few stuffs in Data Science
 
-## Our first set of examples is around simple ML stuffs
+## 0/ Data wrangling and explo 
 
-### 1.1.1 Let's do a regression to warm up! 
+## 1/ simple ML stuffs
 
 ## 2/ A bit of ML Engineering 
 
